@@ -18,16 +18,24 @@ This is an Chatbot project specializing in providing recommendations to company 
 
 The project is divided into two parts:
 
-Frontend - Client Side 📌 Built with React and Vite
+Frontend - Client Side 
 
-Backend - Server Side 📌 Built with MongoDB and Flask
+📌 Built with React and Vite
+
+Backend - Server Side 
+
+📌 Built with MongoDB and Flask
 
 #Main Project Directories
 
-📂 backend/Contains the server-side code, including all necessary files for running the API and managing data.📌 Includes a README.md file with detailed explanations about the backend.
+📂 backend/Contains the server-side code, including all necessary files for running the API and managing data.
+
+📌 Includes a README.md file with detailed explanations about the backend.
 
 
-📂 frontend/Contains the client-side code, including React components and all necessary configurations for running the user interface.📌 Includes a README.md file with detailed explanations about the frontend.
+📂 frontend/Contains the client-side code, including React components and all necessary configurations for running the user interface.
+
+📌 Includes a README.md file with detailed explanations about the frontend.
 
 #Main Technologies Used
 
