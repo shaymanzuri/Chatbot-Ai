@@ -3,10 +3,15 @@
 This is an Chatbot project specializing in providing recommendations to company customers on its products. The Chatbot can:
 
 ✅ Compare prices
+
 ✅ Display available quantities of each product
+
 ✅ Issue receipts at the end of the purchase
+
 ✅ Update inventory quantities after a purchase
+
 ✅ Connect to the ChatGPT API for smart user interactions
+
 ✅ Include built-in tokens for efficient handling of common queries
 
 # Project Structure
