@@ -16,7 +16,7 @@ This is an Chatbot project specializing in providing recommendations to company 
 
 #Project Structure
 
-📌The project is divided into two parts:
+The project is divided into two parts:
 
 Frontend - Client Side 📌 Built with React and Vite
 
@@ -36,6 +36,7 @@ Backend - Server Side 📌 Built with MongoDB and Flask
 🚀 Backend: Flask, MongoDB
 
 Setup Instructions:
+
 1️⃣ Download the project directories (backend/ and frontend/) to the desktop.
 
 2️⃣ Follow the instructions provided in the README.md files.
