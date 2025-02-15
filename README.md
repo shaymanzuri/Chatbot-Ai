@@ -45,9 +45,13 @@ Backend - Server Side
 
 Setup Instructions:
 
-1️⃣ Download the project directories (backend/ and frontend/) to the desktop.
+1️⃣ Download the ZIP file containing the project directories (backend/ and frontend/) to the desktop.
 
 2️⃣ Follow the instructions provided in the README.md files.
 
 3️⃣ Start by running the backend first, then launch the frontend.
+
+# ***
+You can access the chatbot website directly via the following cloud-based link:
+https://e-comm-chatbot-front-end.onrender.com
 
