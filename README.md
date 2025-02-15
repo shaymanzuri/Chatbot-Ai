@@ -14,6 +14,7 @@ This is an Chatbot project specializing in providing recommendations to company 
 
 ✅ Include built-in tokens for efficient handling of common queries
 
+
 #Project Structure
 
 The project is divided into two parts:
@@ -21,6 +22,8 @@ The project is divided into two parts:
 Frontend - Client Side  📌 Built with React and Vite
 
 Backend - Server Side  📌 Built with MongoDB and Flask
+
+
 
 #Main Project Directories
 
@@ -33,11 +36,13 @@ Backend - Server Side  📌 Built with MongoDB and Flask
 
 📌 Includes a README.md file with detailed explanations about the frontend.
 
+
 #Main Technologies Used
 
 🚀 Frontend: React, Vite
 
 🚀 Backend: Flask, MongoDB
+
 
 Setup Instructions:
 
