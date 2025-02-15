@@ -1,6 +1,6 @@
-                                           # Frontend Chatbot
+                                           #Frontend Chatbot
 
-React + Vite
+#React + Vite
 This project is a Tech store Chatbot
 
 To install all package do:
