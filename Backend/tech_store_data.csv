@@ -1,0 +1,30 @@
+Type,Model,Processor,RAM,Graphics,Screen Size,Storage,Price,Speed,Count,Description
+Tablet,Acer Predator,Qualcomm Snapdragon,6GB,NVIDIA GeForce GTX 1650,12.9,64GB,3500 NIS,2.4 GHz,19,Most powerful tablet with Liquid Retina XDR display.
+Phone,Lenovo ThinkPad,AMD Ryzen 9,6GB,Mali-G78 MP14,13.3,1TB SSD,12000 NIS,3.0 GHz,13,Gaming laptop with high refresh rate display.
+Phone,Asus ROG,A14 Bionic,32GB,NVIDIA GeForce GTX 1650,17.3,512GB,2500 NIS,3.6 GHz,17,Powerful tablet with S Pen included.
+Tablet,Samsung Galaxy S,Qualcomm Snapdragon,8GB,Mali-G78 MP14,17.3,128GB,3500 NIS,3.0 GHz,12,Powerful tablet with S Pen included.
+Phone,MacBook Air,Exynos 2100,6GB,Adreno 650,13.3,256GB,7000 NIS,2.4 GHz,27,Gaming laptop with high refresh rate display.
+Tablet,iPhone,Exynos 2100,6GB,Apple GPU,6.1,512GB,2000 NIS,2.9 GHz,25,Ultra-light laptop with exceptional battery life.
+PC,Lenovo ThinkPad,A14 Bionic,6GB,Adreno 650,12.9,512GB,3500 NIS,3.2 GHz,11,Flagship phone with pro-grade camera.
+PC,MacBook Air,Apple M1,16GB,NVIDIA GeForce GTX 1650,11,256GB,5000 NIS,3.1 GHz,25,A reliable and affordable laptop for everyday use.
+PC,HP Pavilion,AMD Ryzen 9,4GB,Intel UHD Graphics,14,64GB,6000 NIS,3.1 GHz,30,A reliable and affordable laptop for everyday use.
+Tablet,Lenovo ThinkPad,Intel Core i5,8GB,NVIDIA GeForce RTX 3080,17.3,128GB,12000 NIS,3.2 GHz,16,"Ultra-light, business-class laptop."
+Phone,Acer Predator,AMD Ryzen 9,6GB,Apple GPU,15.6,128GB,5000 NIS,2.9 GHz,17,A reliable and affordable laptop for everyday use.
+PC,Acer Predator,Qualcomm Snapdragon,4GB,Mali-G78 MP14,13.3,64GB,2500 NIS,2.9 GHz,19,A reliable and affordable laptop for everyday use.
+Tablet,Samsung Galaxy S,Exynos 2100,6GB,Apple GPU,6.2,1TB SSD,3500 NIS,3.0 GHz,13,A reliable and affordable laptop for everyday use.
+PC,Apple iPad Pro,Apple M1,8GB,NVIDIA GeForce RTX 3080,12.9,256GB,4000 NIS,2.9 GHz,27,Ultra-light laptop with exceptional battery life.
+Tablet,Samsung Galaxy S,Apple M1,32GB,Intel UHD Graphics,6.2,64GB,3500 NIS,3.2 GHz,25,Ultra-light laptop with exceptional battery life.
+Phone,Dell Inspiron,A14 Bionic,6GB,NVIDIA GeForce RTX 3080,17.3,64GB,12000 NIS,3.8 GHz,10,Ultra-light laptop with exceptional battery life.
+Phone,MacBook Air,Exynos 2100,16GB,Intel UHD Graphics,13.3,1TB SSD,3500 NIS,2.4 GHz,28,High-end gaming laptop with advanced cooling.
+PC,Acer Predator,Intel Core i5,4GB,Mali-G78 MP14,6.1,256GB,4500 NIS,2.9 GHz,28,Powerful tablet with S Pen included.
+PC,Apple iPad Pro,A14 Bionic,8GB,Adreno 650,17.3,128GB,4000 NIS,3.1 GHz,15,Latest phone with 5G technology.
+Phone,HP Pavilion,Apple M1,6GB,Apple GPU,11,1TB SSD,5000 NIS,3.1 GHz,14,High-end gaming laptop with advanced cooling.
+PC,Asus ROG,Exynos 2100,16GB,NVIDIA GeForce GTX 1650,15.6,1TB SSD,6000 NIS,3.8 GHz,12,Powerful tablet with S Pen included.
+Tablet,Samsung Galaxy S,Intel Core i7,16GB,Intel UHD Graphics,6.1,64GB,7000 NIS,3.1 GHz,11,Flagship phone with pro-grade camera.
+PC,Samsung Galaxy S,A14 Bionic,32GB,Apple GPU,11,1TB SSD,4000 NIS,2.9 GHz,15,Powerful tablet with S Pen included.
+PC,Apple iPad Pro,Qualcomm Snapdragon,32GB,Adreno 650,6.1,1TB SSD,5000 NIS,3.0 GHz,23,Ultra-light laptop with exceptional battery life.
+Phone,Asus ROG,Intel Core i7,32GB,Adreno 650,13.3,64GB,5000 NIS,3.2 GHz,18,"Ultra-light, business-class laptop."
+PC,Acer Predator,Apple M1,32GB,NVIDIA GeForce RTX 3080,13.3,1TB SSD,5000 NIS,2.4 GHz,17,Powerful tablet with S Pen included.
+Phone,Lenovo ThinkPad,AMD Ryzen 9,32GB,Mali-G78 MP14,6.2,512GB,3000 NIS,2.4 GHz,30,Latest phone with 5G technology.
+PC,iPhone,Exynos 2100,32GB,NVIDIA GeForce GTX 1650,17.3,64GB,7000 NIS,3.2 GHz,24,High-end gaming laptop with advanced cooling.
+PC,Acer Predator,Qualcomm Snapdragon,16GB,NVIDIA GeForce RTX 3080,6.1,64GB,3500 NIS,2.9 GHz,12,Most powerful tablet with Liquid Retina XDR display.

@@ -1,0 +1,105 @@
+Type,Model,Processor,RAM,Graphics Card,Storage,Screen Size,Price,Average Rating,Speed,COUNT
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN105,Intel Core i7 12700H,16GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,15.6 inches,3822,0.442,,5
+Laptop,Dell Gaming G5530 G5530-7339, Intel Core i7 13650HX,16GB,NVIDIA GeForce RTX 3050,512GB SSD,15.6 inches,4945,0.516,,12
+Laptop,Gigabyte G5 15 G5-KF-E3EE313SD, Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 4060,512GB SSD,15.6 inches,4254,0.3535,,7
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN073,Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 3050,256GB SSD,15.6 inches,3500,0.3535,,9
+Laptop,Lenovo Legion 5 16IRX9 83DG007UIV,Intel Core i9 14900HX,32GB,NVIDIA GeForce RTX 4060,1TB SSD,16 inches,7720,0.929,,6
+Laptop,Lenovo Legion 5 16IRX9 83DG0089IV,Intel Core i7 14650HX,32GB,NVIDIA GeForce RTX 4060,1TB SSD, 16 inches,6680,0.516,,14
+Laptop,Dell Gaming G5530 G5530-7491,Intel Core i7 13650HX,16GB,NVIDIA GeForce RTX 4060,1TB SSD,15.6 inches,7229,0.516,,10
+Laptop,Omen 16-wd0031nj 8B7Z6EA,Intel Core i7  13700H,16GB,NVIDIA GeForce RTX 4050,512GB SSD,16.1 inches,5083,0.5215,,11
+Laptop,Lenovo LOQ 15IRH8 82XV00K9IV,Intel Core i7 13620H,16GB,NVIDIA GeForce RTX 4060,512GB SSD,15.6 inches,5344,0.48,,8
+Laptop,HP Victus Gaming 16-r0023nj 9J1G5EA,Intel Core i7 13700H,16GB,NVIDIA GeForce RTX 4050,512 GB SSD,15.6  inches,4875,0.5215,,15
+Laptop,Dell G16 7630 G7630-7552,Intel Core i7  13650HX,16GB,NVIDIA GeForce RTX 4060,1TB SSD,16 inches,7300,0.516,,6
+Laptop,HP OMEN 16-wd0031nj 8B7Z5EA,Intel Core i7 13700H,16GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inches,5728,0.5215,,5
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN087,Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 3050,512GB SSD,15.6 inches,3465,0.3535,,7
+Laptop,Lenovo Legion 5 16IRX9 83DG0080IV,Intel Core i7 14650HX,32GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inches,9267,0.516,,9
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN072,Intel Core i7 12700H,16GB,NVIDIA GeForce RTX 3050,512GB SSD,15.6  inches,3906,0.442,,13
+Laptop,Lenovo Legion 5 16IRX9 83DG0086IV,Intel Core i9 14900HX,32GB,NVIDIA GeForce RTX 4060,1TB SSD,16 inches,9327,0.929,,14
+Laptop,Lenovo Legion 5 16ITH6 82RF0084IV,Intel Core i7 12700H,16GB,NVIDIA GeForce RTX 3070,1TB  SSD,16 nches,6299,0.442,,11
+Laptop,HP Victus Gaming 16-r1015nj 9Y066EA, Intel Core i7 14700HX,16GB, NVIDIA GeForce RTX 4060,512GB SSD,16.1  inches,6202,0.442,,8
+Laptop,Gigabyte G5 15 G5-KF-E3EE313SH,Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 4060,512GB SSD,15.6 inches,4896,0.3535,,10
+Laptop,Lenovo LOQ 15IRH8 82XV00H9IV,Intel Core i5 13420H,16GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inches,4971,0.2795,,9
+Laptop,Lenovo Legion 7 16IRX9 83FD003XIV,Intel Core i9 14900HX,32GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inches,10581,0.929,,15
+Laptop,HP Victus Gaming 16-r1011nj 9Y064EA,Intel Core i7 14700HX,16GB,NVIDIA GeForce RTX 4050,512GB SSD,16.1  inches,5630,0.442,,12
+Laptop,Gigabyte G5 15 G5-KF-E3EE313SH,Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 4060,512GB SSD,15.6 inches,4896,0.3535,,6
+Phone,Apple iPhone 14,Apple A15 Bionic,6 GB,,512 GB,6.1 inshes,3199,0.54445,120 Hz,14
+Phone,Apple iPhone 11,Apple A13 Bionic,4 GB,,64 GB,6.1 inshes,1489,0.34645,120 Hz,11
+Phone,Samsung Galaxy S20 Plus 5G SM-G986B,Exynos 990,8 GB,,128 GB,6.7 inshes,1255,0.17025,120 Hz,9
+Phone,Apple iPhone 13 mini,Apple A15 Bionic,4 GB,,256 GB,5.4 inshes,2698,0.5194,120 Hz ,13
+Phone,OnePlus 10 Pro,Snapdragon 8 Gen 1,12 GB,,256 GB,6.7 inshes,2599,0.46195,120 Hz,6
+Phone,Galaxy A53 5G SM-A536E,Exynos 1200,8 GB,,128 GB,6.46 inshes,1115,0.27925,120 Hz,8
+Phone,Apple iPhone 14 Pro,Apple A16 Bionic,8 GB,,512 GB,6.1 inshes,3966,0.6583,120 Hz,9
+Phone,Google Pixel 7,Google Tensor G2,8 GB,,256 GB,6.3 inshes,1745,0.34925,90 Hz,7
+Phone,Samsung Galaxy Z Flip5 SM-F731B,Snapdragon 8 Gen 2,8 GB,,256 GB,6.7 inshes,3175,0.59875,120 Hz,7
+Phone,Google Pixel 7 Pro,Google Tensor G2,12 GB,,128 GB,6.7 inshes,2146,0.3693,120 Hz,5
+Phone,Samsung Galaxy S21 5G SM-G991B,Exynos 2100,8 GB,,256 GB,6.2 inshes,1399,0.33745,120 Hz,12
+Phone,Apple iPhone 14,Apple A15 Bionic,6 GB,,512 GB,6.1 inshes,3199,0.54445,120 Hz,14
+Phone,Apple iPhone 11,Apple A13 Bionic,4 GB,,64 GB,6.1 inshes,1489,0.34645,120 Hz,11
+Phone,Samsung Galaxy S20 Plus 5G SM-G986B,Exynos 990,8 GB,,128 GB,6.7 inshes,1255,0.17025,120 Hz,9
+Phone,Apple iPhone 13 mini,Apple A15 Bionic,4 GB,,256 GB,5.4 inshes,2698,0.5194,120 Hz ,13
+Phone,OnePlus 10 Pro,Snapdragon 8 Gen 1,12 GB,,256 GB,6.7 inshes,2599,0.46195,120 Hz,6
+Phone,Galaxy A53 5G SM-A536E,Exynos 1200,8 GB,,128 GB,6.46 inshes,1115,0.27925,120 Hz,8
+Phone,Apple iPhone 14 Pro,Apple A16 Bionic,8 GB,,512 GB,6.1 inshes,3966,0.6583,120 Hz,10
+Phone,Google Pixel 7,Google Tensor G2,8 GB,,256 GB,6.3 inshes,1745,0.34925,90 Hz,7
+Phone,Samsung Galaxy A35 SM-A356E,Exynos 1380,6 GB,,128 GB,6.6 inshes,1147,0.22735,120 Hz,15
+Phone,Nokia 225,Unisoc UMS9117,64 MB,,128 MB,2.4 inshes,293,0.05915,None,11
+Phone,Samsung Galaxy A04E SM-A042F,None,3 GB,,32 GB,6.5 inshes,340,,None,14
+Phone,Apple iPhone 13 Pro Max,Apple A15 Bionic,6 GB,,128 GB,6.7 inshes,3723,0.57065,None,9
+Phone,Apple iPhone 12 mini,Apple A14,4 GB,,256 GB,5.4 inshes,1849,0.40845,None,12
+Phone,Samsung Galaxy Z Fold4 SM-F936B,Snapdragon 8+ Gen 1,12 GB,,256 GB,7.6 inshes,3720,0.543,120 Hz,5
+Phone,Samsung Galaxy A34 5G SM-A346E/DSN,Mediatek MT6877V Dimensity 1080,8 GB,,128 GB,6.6 inshes,908,0.1889,120 Hz,6
+Phone,Xiaomi Redmi A2 Plus,Mediatek Helio G36,3 GB,,64 GB,6.52 inshes,350,0.0635,None,10
+Phone,Apple iPhone 15 Pro Max,Apple A17 Pro,8 GB,,1 TB,6.7 inshes,7000,0.85,120 Hz,15
+Phone,Samsung Galaxy S23 Plus 5G SM-S916B/DS,Snapdragon 8 Gen 2,8 GB,,512 GB,6.6 inshes,3228,0.6014,120 Hz,6
+Phone,Xiaomi Redmi A3,Mediatek Helio G36,4 GB,,128 GB,6.71 inshes ,438,0.0679,90 Hz,5
+Phone,Google Pixel 6a,Google Tensor,6 GB,,128 GB,6.1 inshes,1168,0.3119,None,7
+Phone,Xiaomi Poco F5 Pro,Snapdragon 8+ Gen 1,12 GB,,512 GB,6.67 inshes,2000,0.457,120 Hz,9
+Phone,Samsung Galaxy S21 Ultra 5G SM-G998B/DS,Exynos 2100,None,,128 GB,6.8 inshes,1838,0.3594,120 Hz,13
+Phone,Xiaomi Redmi A3,Mediatek Helio G36,4 GB,,128 GB,6.71 inshes ,438,0.0679,90 Hz,14
+Phone,Samsung Galaxy Note 20 5G SM-N981B/DS,Exynos 990,8 GB,,256 GB,6.7 inshes,1795,0.25825,None,11
+Phone,Samsung Galaxy A73 5G SM-A736B/DS,Snapdragon 778G,8 GB,,128 GB,6.7 inshes,1750,0.269,120 Hz,8
+Phone,Apple iPhone 14 Pro Max,Apple A16 Bionic,6 GB,,128 GB,6.7 inshes,4700,0.695,120 Hz,10
+Phone,Xiaomi Redmi Note 13 Pro Plus,Mediatek Dimensity 7200 Ultra,8 GB,,256 GB,6.67 inshes,1440,0.251,120 Hz,9
+Phone,Samsung Galaxy A15 SM-A155F/DS,Mediatek Helio G99,8 GB,,256 GB,6.5 inshes,735,0.14275,90 Hz,15
+Phone,Apple iPhone 12 Pro,Apple A14 Bionic,6 GB,,128 GB,6.1 inshes,2653,0.44865,None,12
+Phone,Samsung Galaxy Note 10 SM-N970F,Exynos 9825,8 GB,,256 GB,6.3 inshes,1400,0.3315,None,6
+Phone,Nokia 2660 Flip,Unisoc T107,48 MB,,128 MB,2.8 inshes,319,0.06195,None,5
+Phone,Samsung Galaxy S20 Ultra SM-G988B/DS,Exynos 990,12 GB,,128 GB,6.9 inshes,1754,0.1952,120 Hz,13
+Phone,Apple iPhone 15 Pro,Apple A17 Pro,8 GB,,1 TB,6.1 inshes,6570,0.8285,120 Hz,10
+Phone,Samsung Galaxy S10 SM-G973F,Exynos 9820,8 GB,,128 GB,6.1 inshes,1040,0.256,None,9
+Phone,Xiaomi Redmi Note 12S,Mediatek Helio G96,8 GB,,256 GB,6.43 inshes,919,0.15045,90 Hz,8
+Phone,Samsung Galaxy Note 10 Plus SM-N975F,Exynos 9825,12 GB,,256 GB,6.8 inshes,1639,0.34345,None,15
+Phone,Nokia 110,None,128 MB,,48 MB,1.8 inshes,205,,None,12
+Phone,Google Pixel 7 Pro,Google Tensor G2,12 GB,,256 GB,6.7 inshes,2560,0.39,120 Hz,7
+Phone,Apple iPhone 13 mini ,Apple A15 Bion,4 GB,,512 GB,5.4 inshes,3398,0.5544,120 Hz,6
+Phone,Apple iPhone SE ,Apple A15 Bionic,4 GB,,64GB,4.7 inshes,1495,0.45925,60 Hz,8
+Phone,Huawei P30 Pro ,Kirin 980,6GB,,128GB,6.47? inshes,1580,0.227,60 Hz,9
+Phone,Samsung Galaxy Note 9 SM-N960F,Exynos 9810,6GB,,128GB,6.4 inshes ,999,0.24095,60  Hz,12
+Phone,Samsung Galaxy S21 Ultra 5G SM-G998B/DS , Exynos 2100, 16GB,,512 GB,6.8 inshes ,2460,0.3905,120 Hz,7
+Phone,Samsung Galaxy S20 Ultra 5G SM-G988U , Exynos 990,12GB,, 128GB,6.9 inshes ,1690,0.192,120  Hz,14
+Phone,Samsung Galaxy A14 SM-A145F/DS,Mediatek MT676,6GB,,128GB ,6.6 inshes ,604,0.0922,None,15
+Phone,Samsung Galaxy Note 20 SM-N980F/DS,Exynos 990,8GB,,256 GB,6.7 inshes,2299,0.22245,60 Hz,13
+Phone,Samsung Galaxy S9 SM-G960F,Exynos 9810,4 GB,,64 GB,5.8 inshes,924,0.2372,None,11
+Phone,Apple iPhone 12 Pro ,Apple A14 Bion,6 GB,,256 GB,6.1 inshes,3170,0.4745,120 Hz,10
+Phone,Samsung Galaxy A52 SM-A525F/DS ,Snapdragon 720G,6 GB,,128GB ,6.5 inshes,1364,0.1777,90 Hz,6
+Phone,Samsung Galaxy F54 SM-E546B/DS,Exynos 1380,8 GB,,256GB,6.7 inshes,1375,0.23875,120  Hz,7
+Phone,iPhone X, Apple A11 Bion.,3 GB ,,64GB,5.8  inshes,1298,0.1414,60 Hz,12
+Phone,Samsung Galaxy A71 SM-A715F , Snapdragon 730,8 GB,,128GB,6.7  inshes,1399,0.18645,60 Hz,8
+Phone,Blackview A95 128GB ,Mediatek MT677,8 GB,,128GB,6.53 nshes,592,0.1111,None,9
+Phone,Apple iPhone 11,Apple A13,4 GB,, 256GB,6.1  inshes,2159,0.36945,60 Hz,14
+Phone,Apple iPhone 14 Pro Max,Apple A16 Bion,6  GB,,1 TB,6.7  inshes,5285,0.72425,120  Hz,5
+Phone,Samsung Galaxy A14 SM-A145F/DS, Mediatek MT676,4GB,,128GB,6.6 inshes ,598,0.0919,None,15
+Phone,Samsung Galaxy A51 SM-A515F,Exynos 9611,6GB,,128GB,6.5 inshes ,894,0.1657,None,11
+Phone,Samsung Galaxy A35 SM-A356E/DS ,Exynos 1380,8GB,,256 GB,6.6 inshes ,1340,0.237,120 Hz,10
+Phone,Xiaomi Redmi Note 12 Pro 5G, Mediatek MT6877V,8GB,,256 GB,6.67?  inshes ,1375,0.21225,120  Hz,7
+Phone,Apple iPhone 13 Pro Max,Apple A15 Bion,6 GB,,512GB,6.7  inshes ,4460,0.6075,120 Hz,8
+Phone,Samsung Galaxy S23 SM-S9110,Snapdragon 8 G,8 GB,,256GB,6.6 inshes ,2790,0.5795,120 Hz,12
+Phone,Apple iPhone XR,Apple A12 Bion,3 GB,,64 GB,6.1 inshes ,1419,0.21495,60 Hz,9
+Phone,Blackview A100,MediaTek Heilo,6GB,,128 GB,6.67 inshes ,550,0.0895,None,6
+Phone,Blackview BV9200,MediaTek Heilo,8 GB,,256 GB,6.6 inshes ,1389,0.13145,120 Hz,13
+Phone,Apple iPhone SE,Apple A13 Bion,3 GB,, 64GB,4.7 inshes ,1045,0.31375,60 Hz,15
+Phone,Samsung Galaxy Z Flip3 SM-F711B , Snapdragon 888,8 GB,,256 GB,6.7 inshes ,2158,0.3829,120 HZ,7
+Phone,Blackview BV4900 Pro, MediaTek Helio, 4 GB,,64GB,5.7 inshes ,589,0.09145,None,14
+Phone,Apple iPhone 11 Pro,Apple A13,4GB,,256 GB ,5.8 inshes ,2587,0.39085,60 Hz,11
+Phone,iPhone 8 Plus,Apple A11 Bion,3 GB,,64GB,5.5 inshes ,1229,0.13795,60 Hz,10
+Phone,Apple iPhone SE, Apple A15 Bion,4GB,,256 GB,4.7 nshes ,1990,0.484,60 Hz,6

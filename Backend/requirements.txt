@@ -1,0 +1,15 @@
+Flask 
+pymongo 
+dnspython
+python-docx
+python-dotenv
+langchain 
+faiss-cpu
+openai
+PyPDF2
+tiktoken
+gunicorn
+flask_cors
+langchain-community
+pandas
+logging

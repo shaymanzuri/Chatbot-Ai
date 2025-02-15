@@ -1,0 +1,325 @@
+Type,Model,Processor,RAM,Graphics Card,Storage,Screen Size,Price,Average Rating,Speed,COUNT
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN105,Intel Core i7 12700H,16GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,15.6 inches,3822,0.442,,6
+Laptop,Dell Gaming G5530 G5530-7339, Intel Core i7 13650HX,16GB,NVIDIA GeForce RTX 3050,512GB SSD,15.6 inches,4945,0.516,,12
+Laptop,Gigabyte G5 15 G5-KF-E3EE313SD, Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 4060,512GB SSD,15.6 inches,4254,0.3535,,7
+Laptop,Lenovo Legion 5 16IRX9 83DG008AIV,Intel Core i7 14650HX,32GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inches,8787,0.516,,8
+Laptop,Asus TUF Gaming FX506HE-HN059, Intel Core i7 11800H,16GB,NVIDIA GeForce RTX 3050 Ti,1TB SSD,15.6 inches,3998,0.5665,,10
+Laptop,Lenovo Legion 5 16IRX9 83DG008AIV, Intel Core i7 14650HX,32GB,NVIDIA GeForce RTX 4060,1TB  SSD,16 inches,7173,0.516,,13
+Laptop,HP Victus Gaming 16-r0013nj 9J1G3EA,Intel Core i5 1135G7,16GB,NVIDIA GeForce RTX 4060,512GB SSD,16.1 inches,4922,0.1485,,6
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN073,Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 3050,256GB SSD,15.6 inches,3500,0.3535,,9
+Laptop,Lenovo Legion 5 16IRX9 83DG007UIV,Intel Core i9 14900HX,32GB,NVIDIA GeForce RTX 4060,1TB SSD,16 inches,7720,0.929,,7
+Laptop,Lenovo Legion 5 16IRX9 83DG0089IV,Intel Core i7 14650HX,32GB,NVIDIA GeForce RTX 4060,1TB SSD, 16 inches,6680,0.516,,14
+Laptop,Dell Gaming G5530 G5530-7491,Intel Core i7 13650HX,16GB,NVIDIA GeForce RTX 4060,1TB SSD,15.6 inches,7229,0.516,,10
+Laptop,Omen 16-wd0031nj 8B7Z6EA,Intel Core i7  13700H,16GB,NVIDIA GeForce RTX 4050,512GB SSD,16.1 inches,5083,0.5215,,11
+Laptop,Lenovo LOQ 15IRH8 82XV00K9IV,Intel Core i7 13620H,16GB,NVIDIA GeForce RTX 4060,512GB SSD,15.6 inches,5344,0.48,,8
+Laptop,HP Victus Gaming 16-r0023nj 9J1G5EA,Intel Core i7 13700H,16GB,NVIDIA GeForce RTX 4050,512 GB SSD,15.6  inches,4875,0.5215,,15
+Laptop,Dell G16 7630 G7630-7552,Intel Core i7  13650HX,16GB,NVIDIA GeForce RTX 4060,1TB SSD,16 inches,7300,0.516,,6
+Laptop,HP OMEN 16-wd0031nj 8B7Z5EA,Intel Core i7 13700H,16GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inches,5728,0.5215,,5
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN087,Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 3050,512GB SSD,15.6 inches,3465,0.3535,,7
+Laptop,Lenovo Legion 5 16IRX9 83DG0080IV,Intel Core i7 14650HX,32GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inches,9267,0.516,,9
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN072,Intel Core i7 12700H,16GB,NVIDIA GeForce RTX 3050,512GB SSD,15.6  inches,3906,0.442,,13
+Laptop,Lenovo Legion 5 16IRX9 83DG0086IV,Intel Core i9 14900HX,32GB,NVIDIA GeForce RTX 4060,1TB SSD,16 inches,9327,0.929,,14
+Laptop,Lenovo Legion 5 16ITH6 82RF0084IV,Intel Core i7 12700H,16GB,NVIDIA GeForce RTX 3070,1TB  SSD,16 nches,6299,0.442,,11
+Laptop,HP Victus Gaming 16-r1015nj 9Y066EA, Intel Core i7 14700HX,16GB, NVIDIA GeForce RTX 4060,512GB SSD,16.1  inches,6202,0.442,,8
+Laptop,Gigabyte G5 15 G5-KF-E3EE313SH,Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 4060,512GB SSD,15.6 inches,4896,0.3535,,10
+Laptop,Lenovo LOQ 15IRH8 82XV00H9IV,Intel Core i5 13420H,16GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inches,4971,0.2795,,9
+Laptop,Lenovo Legion 7 16IRX9 83FD003XIV,Intel Core i9 14900HX,32GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inches,10581,0.929,,15
+Laptop,HP Victus Gaming 16-r1011nj 9Y064EA,Intel Core i7 14700HX,16GB,NVIDIA GeForce RTX 4050,512GB SSD,16.1  inches,5630,0.442,,12
+Laptop,Gigabyte G5 15 G5-KF-E3EE313SH,Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 4060,512GB SSD,15.6 inches,4896,0.3535,,6
+Laptop, Lenovo LOQ 15IRH8 82XV00H9IV ,Intel Core i5 13420H,16GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inches,4971,0.2795,,5
+Laptop, Lenovo Legion 7 16IRX9 83FD003XIV,Intel Core i9 14900HX,32GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inches,10581,0.929,,13
+Laptop,HP Victus Gaming 16-r1011nj 9Y064EA,Intel Core i7 14700HX,16GB,NVIDIA GeForce RTX 3090 ,512GB SSD,16.1 inches,5630,0.442,,10
+Laptop,HP OMEN 16-wf0022nj 89M04EA,Intel Core i7 13700HX,32GB,NVIDIA GeForce RTX 3080 ,512GB SSD,16.1 inches,8859,0.535,,9
+Laptop,Dell Gaming G5530 G5530-9635 ,Intel Core i9 13900HX,32GB,NVIDIA GeForce RTX 4060,1TB SSD,15.6 inches,8300,0.7305,,8
+Laptop,Acer Predator Helios Neo NH.QRFEC.001,Intel Core i9 14900HX,16GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inches,6230,0.929,,15
+Laptop,HP Victus Gaming 16-r1017nj 9Y067EA,Intel Core i7 14700HX,16GB,NVIDIA GeForce RTX 4070,512GB SSD,16.1 inches,7228,0.442,,12
+Laptop,Lenovo Legion 5 16IRX9 83DG007YIV,Intel Core i7 14650HX,32GB,NVIDIA GeForce RTX 3080 Ti,512GB SSD,16 inches,7562,0.516,,7
+Laptop,HP OMEN 16-wf0003nj 8C1Q5EA,Intel Core i7  13700HX,16GB,NVIDIA GeForce RTX 4050,512GB SSD,16.1 inches,6290,0.535,,14
+Laptop,Lenovo Legion 5 16IRX9 83DG007XIV ,Intel Core i7  14650HX,32 GB,NVIDIA GeForce RTX 4060,512GB SSD,16 inches,7064,0.516,,11
+Laptop,Asus TUF Gaming F15 FX507VU4-LP004W ,Intel Core i7  13700H,16GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inches,5293,0.5215,,10
+Laptop,Lenovo IdeaPad Gaming 3 16IAH7 82SA006UIV,Intel Core i7  12700H,16GB,NVIDIA GeForce RTX 3060,512GB SSD,16 inches,5385,0.442,,6
+Laptop,Lenovo Legion Slim 5 16IRH8 82YA00A6IV,Intel Core i5 13420H,16GB,NVIDIA GeForce RTX 3050,512GB SSD,16 inches,4958,0.2795,,8
+Laptop,Lenovo Legion 5 Pro 16ITH6 82JF002VIV,Intel Core i5 11400H,16GB,NVIDIA GeForce RTX 3050,512GB SSD,16 inches,4947,0.2,,9
+Laptop,HP Victus 16-r0006nj 800K2EA,Intel Core i7 13700H,16GB,NVIDIA GeForce RTX 4050,1TB SSD,15.6 inches,5879,0.5215,,12
+Laptop,Lenovo IdeaPad Gaming 3 15IAH7 82S900GLIV,Intel Core i7 12700H,16GB,NVIDIA GeForce RTX 3060,512GB SSD,15.6 inches,5294,0.442,,7
+Laptop,Lenovo Legion 7 16IRX9 83FD003UIV,Intel Core i9 14900HX,32GB,NVIDIA GeForce RTX 4080,2TB SSD,16 inches,11318,0.929,,14
+Laptop,Lenovo Legion Slim 5 14APH8 82Y5003SIV,AMD Ryzen 7 7840HS,16GB,NVIDIA GeForce RTX 3050,512GB SSD,14.5 inches,6303,0.494,,15
+Laptop,Asus ROG Strix G18 G814JIR-N6046W,Intel Core i9 14900HX,16GB,NVIDIA GeForce RTX 4060,2TB SSD,18 inches,10674,0.929,,13
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN105,Intel Core i7 12700H,16GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,15.6 inches,3819,0.442,,11
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN087,Intel Core i5 12500H,16GB,NVIDIA GeForce RTX 3050 ,512GB SSD,15.6 inches,3462,0.3535,,10
+Laptop, Asus TUF Gaming F15 FX506HF,Intel Core i5 11400H,16GB,NVIDIA Geforce RTX 2050,512GB SSD,15.6 inches,3490,0.2,,6
+Laptop,Lenovo IdeaPad Gaming 3 15ARH7 82SB00SLUS,AMD Ryzen 5,8GB,NVIDIA Geforce RTX 2050,512GB SSD,15.6 inches,3390,0.285,,7
+Laptop,Lenovo Gaming 3 15ACH6 82K20048IV,AMD RYZEN 7 5800H,16GB,NVIDIA GeForce GTX 1650,512GB SSD,15.6 inches,3737,0.372,,12
+Laptop,Asus TUF Gaming F15 FX506HF-HN036, Intel Core i5 11400H,32GB,NVIDIA GeForce GTX 1650 Ti,512GB SSD,15.6 inches,3690,0.2,,8
+Laptop,ASUS TUF Dash F15 FX516PC-HN002,Intel Core i5 11300H?,16GB,Intel Iris Xe Graphics,512GB SSD,15.6 inches,3699,0.1975,,9
+Laptop,HP Pavilion Gaming 4A437EA - 15-ec2002nj,AMD Ryzen 5 5600H,16GB, NVIDIA GeForce GTX 1650,512GB SSD,15.6 inches,3987,0.2645,,14
+Laptop,Lenovo LEGION 5 17ARH05H,AMD Ryzen 7 4800H,16GB,RTX 2060 ,512GB SSD,17.3 inches,3438,0.368,,5
+Laptop,Asus ROG Zephyrus G15 GA503RS-HQ012,AMD Ryzen 9 6900HS,32GB,NVIDIA GeForce RTX 3080,512GB SSD,15.6 inches,9390,0.4775,,15
+Laptop, Asus ROG Zephyrus G15 GA503RS-HQ011 ,AMD Ryzen 9 6900HS,32GB,NVIDIA GeForce RTX 3080 Ti,512GB SSD,15.6 inches,9590,0.4775,,11
+Laptop, Asus ROG Strix G15 G513QY-HQ008X,AMD Ryzen 9 5900HX,16GB,AMD Radeon Graphics,512GB SSD,15.6 inches,7549,0.41775,,10
+Laptop,Asus ROG Zephyrus G15 GA503RS-HQ011W,AMD Ryzen 9 6900HS,32GB,NVIDIA GeForce RTX 3080?,512GB SSD,14 inches,9654,0.4775,,7
+Laptop,Asus ROG Strix G17 G713RW-KH146W,AMD Ryzen 9 6900HX,32GB, NVIDIA GeForce RTX 3070 Ti,1TB SSD,17.3  inches,8989,0.4795,,8
+Laptop,Lenovo Legion S7 16ARHA7 82UG0032IV,AMD Ryzen 9  6900HX,24GB, AMD Radeon RX 6800S?,512GB SSD,16 inches,9338,0.4795,,12
+Laptop,Asus ROG Strix G15 G513RW-HQ215 ,AMD Ryzen 9  6900HX,16GB, NVIDIA GeForce RTX 3070 Ti,512GB SSD,15.6 inches,8519,0.4795,,9
+Laptop, Lenovo Legion 5 Pro 16ARH7H 82RG00B2IV,AMD Ryzen 9  6900HX,32GB,NVIDIA GeForce RTX 3070 Ti,1TB SSD,16 inches,9650,0.4795,,6
+Laptop,HP OMEN 16-c0009nj 4T9M1EA,AMD Ryzen 9 5900HX,32GB,NVIDIA GeForce RTX 3070,1TB SSD,16.1 inches,7990,0.41775,,13
+Laptop,Asus ROG Zephyrus G15 GA503RS-HQ012W,AMD Ryzen 9  6900HS,32GB,NVIDIA GeForce RTX 3080,1TB SSD,15.6 inches,10498,0.4775,,15
+Laptop,Lenovo Legion Pro 7 16ARX8H 82WS0031IV,AMD Ryzen 9  7945HX,32GB,NVIDIA GeForce RTX 4080,1TB SSD,16 inches,11699,0.596,,7
+Laptop,HP Omen 16-c0007nj 4T9M0EA,AMD Ryzen 9 5900HX,32GB,NVIDIA GeForce RTX 3070,512GB SSD,16.1 inches,7590,0.41775,,14
+Laptop,Asus ROG Strix G15 G513RW-HQ214W,AMD Ryzen 9 6900HX,32GB,NVIDIA GeForce RTX 3070 Ti,1TB SSD,15.6 inches,9669,0.4795,,11
+Laptop,Asus ROG Zephyrus G14 GA402RK-L8160W,AMD Ryzen 9 6900HS,32GB,AMD Radeon RX 6800S,1TB SSD,14 inches,9232,0.4775,,10
+Laptop,Asus GA401QM-K2148R ,AMD Ryzen 9 5900HS,32GB,NVIDIA GeForce RTX 3060,1TB SSD,14 inches,9500,0.41775,,6
+Laptop,Asus ROG Strix G15 G513QY-HQ007W,AMD Ryzen 9 5900HX,8GB,AMD Radeon RX 6800M,512GB SSD,15.6 inches,8500,0.41775,,12
+Laptop,Lenovo Legion 7 16ARHA7 82UH0057IV,AMD Ryzen 9 6900HX,32GB,AMD Radeon RX 6850M,1TB SSD,16 inches,11098,0.4795,,9
+Laptop,Asus ROG Strix G15 G513QY-HQ008,AMD Ryzen 9 5900HX,16GB,AMD Radeon Graphics,1TB SSD,15.6 inches,8062,0.41775,,13
+Laptop,Asus ROG Zephyrus G14 GA401IV-HA199T,AMD Ryzen 9 4900HS,32GB,NVIDIA Geforce RTX 2060,512GB SSD,14 inches,8480,0.3105,,5
+Laptop, Lenovo Legion Pro 7 16ARX8H 82WS0030IV,AMD Ryzen 9 7945HX,32GB,NVIDIA GeForce RTX 4080,2TB SSD,16 inches,14198,0.596,,8
+Laptop,Asus ROG Zephyrus Duo 16 GX650RX-LO189W,AMD Ryzen 9 6900HX,32GB,NVIDIA GeForce RTX 3080 Ti,2TB SSD,16 inches,16171,0.4795,,7
+Laptop,Lenovo Legion 9 16IRX9 83G0001CIV,Intel Core i9 13980HX,64GB,NVIDIA GeForce RTX 4090?,2TB SSD,16 inches,21639,0.8145,,11
+Laptop,Asus ROG Zephyrus Duo 16 GX650PZ-NM037W,AMD Ryzen 9 7945HX,64GB,NVIDIA GeForce RTX 4080,2TB SSD,16 inches,19697,0.596,,15
+Laptop,Lenovo Legion 5 Pro 16ITH6 82JF002VIV,Intel Core i5 11400H,16GB, NVIDIA GeForce RTX 3050,512GB SSD,16 inches,4329,0.2,,10
+Laptop,Lenovo Legion Pro 7 16IRX8H 82WQ004FIV,intel core i9 13900HX,32 GB,NVIDIA GeForce RTX 4080,2TB SSD,16 inshes ,13149,0.739,,14
+Laptop,Asus TUF Gaming F15 FX507VU4-LP001 ,intel core i7 13700H,16 GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inshes,5178,0.52275,,6
+Laptop,Lenovo Legion 5 Pro 16IAH7H 82RF007JIV,Intel Core i9 12900H,32 GB,NVIDIA GeForce RTX 3070,1TB SSD,16 inshes ,9280,0.5,,9
+Laptop,Asus TUF Gaming F17 FX707VU4-HX005,intel core i7 13700H,8 GB,NVIDIA GeForce RTX 4050,512GB SSD,17.3 inshes,5490,0.52275,,12
+Laptop,Lenovo Legion Pro 7 16IRX8H 82WQ004GIV,intel core i9 13900HX,32 GB,NVIDIA GeForce RTX 4090,2TB SSD,16 inshes ,15698,0.739,,8
+Laptop,Lenovo Legion Pro 7 16IRX8H 82WQ004DIV,intel core i9 13900HX,32 GB,NVIDIA GeForce RTX 4080,1TB SSD,16 inshes ,12325,0.739,,7
+Laptop,Asus TUF Gaming FX506HE-HN057,Intel Core i7 11800H,16 GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,15.6 inshes,4059,0.5665,,15
+Laptop,Lenovo IdeaPad Gaming 3 15IAH7 82S900GKIV,Intel Core i7 12700H,16 GB,NVIDIA GeForce RTX 3060,512GB SSD,15.6 inshes,5290,0.442,,5
+Laptop,Lenovo Legion 5 Pro 16IAH7 82RF0079IV,Intel Core i7 12700H,16 GB,NVIDIA GeForce RTX 3060,1TB SSD,16 inshes ,6547,0.442,,14
+Laptop,Lenovo LOQ 15IRH8 82XV00HFIV,Intel Core i7 13620H,16 GB,NVIDIA GeForce RTX 4060,1TB SSD,15.6 inshes,6356,0.48,,13
+Laptop,Asus TUF Gaming F15 FX507VV-LP142W,Intel Core i7 13620H,16 GB,NVIDIA GeForce RTX 4060,1TB SSD,15.6 inshes,5990,0.48,,10
+Laptop,Lenovo Legion Pro 5 16IRX9 83DF001QIV,Intel Core i7 14650HX,32 GB,NVIDIA GeForce RTX 4060þ,1TB SSD,16 inshes ,7396,0.516,,6
+Laptop,Lenovo Legion 5 15IAH7 82RC0050IV,Intel Core i5 12500H,16 GB,NVIDIA GeForce RTX 3050,1TB SSD,15.6 inshes,5141,0.3535,,12
+Laptop,Dell Inspiron G15 Gaming 5520 G5520-9342,Intel Core i9 12900H,16 GB,NVIDIA GeForce RTX 3070 Ti,1TB SSD,16 inshes ,8470,0.5,,9
+Laptop,Asus TUF Gaming F15 FX506HE-HN057W,Intel Core i7 11800H,16 GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,15.6 inshes,4098,0.5665,,8
+Laptop,Asus TUF Gaming F15 FX507ZM-HN009W,Intel Core i7 12700H,16 GB,Intel Iris Xe Graphics,512GB SSD,15.6 inshes,6615,0.442,,11
+Laptop,Asus TUF Dash F15 FX517ZR-HN014,Intel Core i7 12650H,16 GB,NVIDIA GeForce RTX 3070,1TB SSD,15.6 inshes,5871,0.4705,,7
+Laptop,Lenovo Legion Pro 7 16IRX9H 83DE004CIV,Intel Core i9 14900HX,32 GB,NVIDIA GeForce RTX 4080,1TB SSD,16 inshes ,12585,0.929,,5
+Laptop,Lenovo Legion 5 15IAH7 82RC0053IV,Intel Core i5 12500H,16 GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,15.6 inshes,5191,0.3535,,14
+Laptop,Lenovo IdeaPad Gaming 3 15IAH7 82S900FJIV,Intel Core i5 12450H,16 GB,NVIDIA GeForce RTX 3050,1TB SSD,15.6 inshes,4600,0.302,,10
+Laptop,Lenovo Legion Slim 5 16IRH8 82YA00A9IV,Intel Core i5 13420H,16 GB,NVIDIA GeForce RTX 3050,512GB SSD,16 inshes ,5701,0.2795,,13
+Laptop,Asus ROG Strix G614JI-N4209W,Intel Core i7 13650HX,16 GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inshes ,9994,0.516,,12
+Laptop,Lenovo Legion Pro 5 16IRX8 82WK00KPIV,intel core i9 13900HX,32 GB,NVIDIA GeForce RTX 4050,1TB SSD,16 inshes ,7025,0.739,,6
+Laptop,HP Victus 16-r0002nj 800K1EA,Intel Core i5 13500H,16 GB,NVIDIA GeForce RTX 4050,1TB SSD,16.1 inshes,5850,0.4165,,8
+Laptop,Acer Predator Helios Neo NH.QREEC.001,Intel Core i9 14900HX,32 GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inshes ,7989,0.929,,9
+Laptop,Lenovo Legion 5 Pro 16IRX9 83DF001VIV,Intel Core i9 14900HX,32 GB,NVIDIA GeForce RTX 4060,2TB SSD,16 inshes ,8933,0.929,,15
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN151W ,Intel Core i7 12700H,16 GB,NVIDIA GeForce RTX 3050,1TB SSD,15.6 inshes,4943,0.442,,11
+Laptop,HP Victus 16-r0010nj 800K5EA,Intel Core i5 13500H,16 GB,NVIDIA GeForce RTX 3050,512GB SSD,16.1 inshes,5098,0.4165,,14
+Laptop,Dell Inspiron G15 Gaming G5520-8423,Intel Core i7 12700H,16 GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,15.6 inshes,5999,0.442,,7
+Laptop,Lenovo Legion Pro 7 16IRX8 82WR001CIV ,Intel Core i9 13900HX,32 GB,NVIDIA GeForce RTX 4070,2TB SSD,16 inshes ,11018,0.739,,10
+Laptop,Lenovo Legion Slim 5 16IRH8 82YA00ABIV,intel core i7 13700H,32 GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inshes ,9488,0.52275,,8
+Laptop,Lenovo IdeaPad Gaming 3 15IAH7 82S900GAIV,Intel Core i7 12650H,16 GB,NVIDIA GeForce RTX 3050,1TB SSD,15.6 inshes,5100,0.4705,,6
+Laptop,Asus TUF Gaming F15 FX507ZV4-HQ043W,Intel Core i7 12700H,8 GB,NVIDIA GeForce RTX 4060,1TB SSD,15.6 inshes,6407,0.442,,13
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN150,Intel Core i7 12700H,16 GB,NVIDIA GeForce RTX 3050,1TB SSD,15.6 inshes,4648,0.442,,12
+Laptop,Asus TUF Gaming F15 FX507VV4-LP061W,intel core i7 13700H,16 GB,NVIDIA GeForce RTX 4060,1TB SSD,15.6 inshes,6160,0.52275,,5
+Laptop,Asus TUF Gaming F17 FX707ZV4-LL010,Intel Core i7 12700H,8 GB,NVIDIA GeForce RTX 4060,512GB SSD,17.3 inshes,5772,0.442,,11
+Laptop,Asus TUF Gaming F15 FX507VU4-LP001,intel core i7 13700H,16 GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inshes,5178,0.52275,,9
+Laptop,Asus TUF Gaming 17 FX707ZR-HX016,Intel Core i7 12700H,16 GB,NVIDIA GeForce RTX 3070,1TB SSD,17.3 inshes,6686,0.442,,7
+Laptop,Acer Predator Helios Neo NH.QNMEC.002,Intel Core i9 14900HX,32 GB,NVIDIA GeForce RTX 4070,1TB SSD,16 inshes ,9189,0.929,,10
+Laptop,HP Victus 16-r0008nj 800K3EA,intel core i7 13700H,32 GB,NVIDIA GeForce RTX 4070,1TB SSD,16.1 inshes,7790,0.52275,,15
+Laptop,Dell G15 5511 IN-RD33-13264,Intel Core i5 11400H,16 GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,15.6 inshes,4690,0.2,,14
+Laptop,Lenovo Legion 5 Pro 16IAH7H 82RF007QIV,Intel Core i7 12700H,16 GB,NVIDIA GeForce RTX 3070,1TB SSD,16 inshes ,7198,0.442,,6
+Laptop,Lenovo Legion 5 Pro 16ITH6 82JF002XIV,Intel Core i5 11400H,16 GB,NVIDIA GeForce RTX 3050,512GB SSD,16 inshes ,5300,0.2,,12
+Laptop,Lenovo Legion Pro 5 16IRX8 82WK00G9IV,intel core i9 13900HX,32 GB,NVIDIA GeForce RTX 4050,1TB SSD,16 inshes ,7622,0.739,,8
+Laptop,Asus TUF Gaming F15 FX506HE-HN059W,Intel Core i7 11800H,16 GB,NVIDIA GeForce RTX 3050 Ti,1TB SSD,15.6 inshes,4589,0.568,,13
+Laptop,Lenovo IdeaPad Gaming 3 15ARH7 82SB00SLUS,AMD Ryzen 5 7535HS,8 GB,NVIDIA Geforce RTX 2050,512GB SSD,15.6 inshes,3390,0.339,,11
+Laptop,Lenovo IdeaPad Gaming 3 15IAH7 82S900FLIV,Intel Core i5 12450H,16 GB,NVIDIA GeForce RTX 3050,1TB SSD,15.6 inshes,4493,0.324,,7
+Laptop,Lenovo LOQ 15IRH8 82XV00H7IV,Intel Core i5 13420H,16 GB,NVIDIA GeForce RTX 3050,1TB SSD,15.6 inshes,4799,0.2795,,9
+Laptop,HP OMEN 16-wf1000nj 9Y068EA,Intel Core i9 14900HX,32 GB,NVIDIA GeForce RTX 4080,1TB SSD,16.1 inshes,11725,0.929,,14
+Laptop,Gigabyte G5 15 G5-MF-E2EE333SH,Intel Core i5 12500H,8 GB,NVIDIA GeForce RTX 4050,512GB SSD,15.6 inshes,4547,0.3535,,10
+Laptop,Asus ROG Zephyrus G15 GA503RS-HQ011,AMD Ryzen 9 6900HS,32 GB,NVIDIA GeForce RTX 3080,1TB SSD,15.6 inshes,9590,0.4775,,5
+Laptop,Asus ROG Zephyrus M16 GU603ZX-K8031W,Intel Core i9 12900H,32 GB,NVIDIA GeForce RTX 3080 Ti,2TB SSD,16 inshes ,10998,0.5,,6
+Laptop,HP Victus Gaming 15-Fa1023n 800J8EA,Intel Core i5 13500H,16 GB,NVIDIA GeForce RTX 4050,1TB SSD,15.6 inshes,4831,0.4165,,12
+Laptop,Asus TUF Gaming F15 FX507VV4-LP061 ,intel core i7 13700H,16 GB,NVIDIA GeForce RTX 4060,1TB SSD,15.6 inshes,6439,0.52275,,15
+Laptop,Asus TUF Dash F15 FX517ZC-HN111W,Intel Core i7 12650H,16 GB,Intel Iris Xe Graphicsþ,1TB SSD,15.6 inshes,4648,0.4705,,11
+Laptop,Lenovo Legion Pro 7 16IRX9H 83DE004CIV,Intel Core i9 14900HX,32 GB,NVIDIA GeForce RTX 4080,1TB SSD,16 inshes ,12460,0.929,,8
+Laptop,Asus TUF Gaming F15 FX506HF-HN036,Intel Core i5 11400H,32 GB,NVIDIA Geforce RTX 2050,1TB SSD,15.6 inshes,3690,0.2,,7
+Laptop,Lenovo Legion 5 15ARH05 82B5001XUS,AMD Ryzen 4600H,8 GB,NVIDIA GeForce GTX 1650 Ti,1.2TB SSD,15.6 inshes,3690,0.33,,13
+Laptop,Asus TUF Dash F15 FX517ZM-HN114W,Intel Core i7 12650H,16 GB,NVIDIA GeForce RTX 3060,1TB SSD,15.6 inshes,5593,0.4705,,9
+Laptop,Gigabyte Aorus 15 AORUS15-BSF-73EE754SH,intel core i7 13700H,16 GB,NVIDIA GeForce RTX 4070,1TB SSD,15.6 inshes,8299,0.52275,,10
+Laptop,Lenovo Legion 5 15IAH7 82RC0058IV,Intel Core i5 12400f,16GB,NVIDIA GeForce RTX 3050 Ti,1000GB SSD,15.6 inches,5414,0.205,,14
+Laptop, Lenovo IdeaPad Gaming 3 15ACH6 82K2004FIV,Ryzen 7 5800H,8GB ,NVIDIA GTX 1650,256GB SSD,15.6 inches,4299,0.371,,6
+Laptop,Gigabyte G5,Intel Core i5 11400H,16GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,15.6 inches,4230,0.2,,5
+Laptop,Asus ROG Strix Scar 15 G533ZS-HF031,Intel Core i9 14900hx,64GB,NVIDIA GeForce RTX 3080,2000GB ssd,15.6 inches,14100,0.929,,12
+Laptop,Asus ROG Strix G16 G614JV-N4104,Intel Core i9 13900kf,32GB,NVIDIA GeForce RTX 4060,1000GB SSD,16 inches,9300,0.8145,,15
+Laptop,Asus ROG Strix Scar G16 G614JV-N4250W,Intel Core i9 13900k,16GB,NVIDIA GeForce RTX 4060,1000GB SSD,16 inches,9900,0.8145,,11
+Laptop,HP Victus 16 16-d0005nj 4P4B7EA,Intel Core i7 13650hx,16GB,NVIDIA GeForce RTX 3050,1000GB SSD,16.1 inches,5400,0.516,,8
+Laptop,Acer Predator Helios Neo NH.QLUEC.00W,Intel Core i9 13900hx,16GB,NVIDIA GeForce RTX 4060,512GB SSD,16.1 inches,6900,0.739,,7
+Laptop, HP OMEN 16-wf1000nj 9Y068EA,Intel Core i9 13900hx,64GB,NVIDIA GeForce RTX 4080,1000GB SSD,16.1 inches,12500,0.739,,9
+Laptop,Lenovo Legion 5 16ITH6 82JF002YIV,Intel Core i5 13420h,16GB,NVIDIA GeForce RTX 3050,512GB SSD,16 inches,5400,0.2795,,14
+Laptop,HP Victus 16-e0001nj 4P4B6EA,Intel Core i5 12450h,16GB,NVIDIA GeForce GTX 1650,1TB,17 inches,4400,0.324,,10
+Laptop,Asus TUF Gaming F15 FX507VV4-LP060,Intel Core i7 12700h,16GB,NVIDIA GeForce RTX 4060,1TB,15.6 inches,6600,0.442,,13
+Laptop, Asus TUF Gaming F15 FX507VV-LP166,Intel Core i7 13700h,32GB,NVIDIA GeForce RTX 4060,2TB SSD,15.6 inches,6000,0.52275,,6
+Laptop,Lenovo IdeaPad Gaming 3 15IAH7 82S90137IV,Intel Core i7 12700h,16GB,NVIDIA GeForce RTX 3050,512GB SSD,15.6 inches,4499,0.442,,12
+Laptop,Lenovo Legion Pro 7 16IRX8 82WR001AIV,Intel Core i9  13900h,32GB,NVIDIA GeForce RTX 4070,1TB,17 inches,10700,0.8145,,15
+Laptop,Lenovo Legion 5 Pro 16IAH7H 82RF0075IV,Intel Core i5 13400f,16GB,NVIDIA GeForce RTX 3060,512GB SSD,15.6 inches,6200,0.2795,,11
+Laptop,Lenovo Legion Pro 5 16IRX9 83DF008WIV ,Intel Core i7 11700,32GB,NVIDIA GeForce RTX 4060,1TB,15.6 inches,7500,0.411,,8
+Laptop,Lenovo IdeaPad Gaming 3 15ACH6 82K2004LIV,AMD Ryzen 7,16GB,NVIDIA GeForce GTX 1650,1TB,16 inches,4500,0.3715,,7
+Laptop,Lenovo IdeaPad Gaming 3 15IHU6 82K100QAIV,Intel Core i5 13400f,16GB,NVIDIA GeForce RTX 3050 ,512GB SSD,15.6 inches,4400,0.2795,,10
+Laptop,Asus TUF Gaming F15 FX507ZC4-HN122W,Intel Core i5 13400f,16GB,NVIDIA GeForce RTX,1TB,15.6 inches,4200,0.2795,,13
+Laptop,Lenovo Legion Pro 7 16IRX9H 83DE004CIV,Intel Core i9 12900k,32GB,NVIDIA GeForce RTX 4080,1TB,16 inches,12500,0.5,,14
+Laptop,Lenovo IdeaPad Gaming 3 15ACH6 82K2004GIV,AMD Ryzen 7,8GB,NVIDIA GeForce GTX 1650,512GB SSD,15.6 inches,4000,0.3715,,5
+Laptop,Asus TUF Dash F15 FX516PM-HN072W,Intel Core i7 11800h,16GB,NVIDIA GeForce GTX 1650,512GB SSD,15.6 inches,5500,0.568,,9
+Laptop,Asus TUF Gaming F15 FX507ZU4-LP057,Intel Core i7 10700 box,16GB,NVIDIA GeForce RTX 4050,1TB,15.6 inches,5800,0.3615,,12
+Laptop,Lenovo Legion 5 Pro 16ITH6 82JF0031IV,Intel Core i7 11800h,16GB,NVIDIA GeForce RTX 4050,512GB SSD,16 inches,5500,0.568,,6
+Laptop,Asus TUF Gaming F15 FX507ZV4-HQ065W,Intel Core i7 12700h,16GB,NVIDIA GeForce RTX 4060,1TB,16 inches,6800,0.442,,15
+Laptop,Lenovo Legion 5 15IAH7H 82RB00CFIV,Intel Core i7 13650hx,16GB,NVIDIA GeForce RTX 3060,1TB,16 inches,7400,0.516,,11
+Laptop,Asus TUF Dash F15 FX517ZC-HN098W,Intel Core i7 13650hx,16GB,NVIDIA GeForce RTX 3050,1TB,15.6 inches,5700,0.516,,10
+Laptop,Lenovo IdeaPad Gaming 3 15IHU6 82K100Q6IV,Intel Core i5 13600k,16GB,NVIDIA GeForce RTX 3050 Ti,1TB,15.6 inches,4700,0.422,,8
+Laptop,Gigabyte G5,Intel Core i5 13600k,16GB,NVIDIA RTX 3050T,512GB SSD,15.6 inches,4650,0.422,,9
+Laptop,Acer Predator Helios Neo NH.QRAEC.001,Intel Core i9 13900f,32GB,NVIDIA RTX 3050T,1TB,16 inches,11600,0.8145,,7
+Laptop,Acer Predator Helios Neo NH.QRAEC.001,Intel Core i7 13700h,32GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,16 inches,9500,0.52275,,12
+Laptop,Lenovo Legion 5 15IAH7H 82RB00CFIV,Intel Core i5 13600k,8GB,NVIDIA GeForce RTX 3060,256GB SSD,15.6 inches,4200,0.422,,13
+Laptop,Asus ROG Strix Scar 15 G533ZS-HF031,Intel Core i5 13400,16GB,NVIDIA GeForce RTX 3080,1TB,15.6 inches,8670,0.2795,,6
+Laptop,Asus ROG Strix G16 G614JV-N4104,Intel Core i7 13700h,32GB,NVIDIA GeForce RTX 4060,500GB SSD,16 inches,7500,0.52275,,14
+Laptop,Asus ROG Strix Scar G16 G614JV-N4250W,Intel Core 5 14600kf,8GB,NVIDIA GeForce RTX 4060,500GB SSD,16 inches,6200,0.3935,,5
+Laptop,HP Victus 16 16-d0005nj 4P4B7EA,Intel Core i7 11700,32GB,NVIDIA GeForce RTX 3050,2TB SSD,16.1 inches,8000,0.411,,11
+Laptop,Acer Predator Helios Neo NH.QLUEC.00W,Intel Core i9 13900f,32GB,NVIDIA GeForce RTX 4060,2TB SSD,16.1 inches,11000,0.8145,,15
+Laptop, Asus TUF Gaming F15 FX507VV-LP166,Intel Core i5 13400,16GB,NVIDIA GeForce RTX 4060,1TB SSD,15.6 inches,4200,0.2795,,10
+Laptop,Lenovo IdeaPad Gaming 3 15IAH7 82S90137IV,Intel Core i9 14900hx,32GB,NVIDIA GeForce RTX 3050,1TB SSD,15.6 inches,7970,0.929,,8
+Laptop,Lenovo Legion Pro 7 16IRX8 82WR001AIV,Intel Core i9 13900hx,32GB,NVIDIA GeForce RTX 4070,1TB SSD,17 inches,10700,0.739,,7
+Laptop,Lenovo Legion 5 Pro 16IAH7H 82RF0075IV,Intel Core i9 14900hx,16GB,NVIDIA GeForce RTX 3060,512GB SSD,15.6 inches,7000,0.929,,12
+Laptop,Lenovo Legion Pro 5 16IRX9 83DF008WIV ,Intel Core i5 14600kf,16GB,NVIDIA GeForce RTX 4060,512GB SSD,15.6 inches,4990,0.3935,,9
+Laptop, Lenovo Legion Pro 5 16IRX9 83DF0090IV,Intel Core i9 12900f,32GB,NVIDIA GeForce RTX 4060,1TB SSD,17 inches,9000,0.5,,14
+Laptop,Lenovo Legion 5 Pro 16ARH7H 82RG00B2IV,Intel Core i7 13700f,32GB,NVIDIA GeForce RTX 4061,1TB SSD,16.1 inches,9500,0.5,,6
+Laptop,Acer Predator Helios Neo NH.QLUEC.00F,Intel Core i9 13900hx,32GB,NVIDIA GeForce RTX 4060,1TB SSD,16.1 inches,7800,0.739,,13
+Laptop,Asus ROG Strix 16 G614JJ-N3068,Intel Core i7 12700kf,16GB,NVIDIA GeForce RTX 3050,512GB SSD,16.1 inches,6800,0.4455,,11
+Laptop,Lenovo Legion 5 15ARH05H 82B100A1IV ,AMD Ryzen 7,16GB,NVIDIA Geforce RTX 2060,512GB SSD,16.1 inches,5750,0.3715,,15
+Laptop,Dell Inspiron G15 Gaming G5520-8014,Intel Core i7-10700,16GB,NVIDIA GeForce RTX 3050 Ti,512GB SSD,16.1 inches,5800,0.3615,,8
+Phone,Samsung Galaxy M55 SM-M556B,Snapdragon 7 Gen 1,8 GB,,256 GB,6.7 inshes,1697,0.27835,120 Hz,10
+Phone,Samsung Galaxy Z Flip5 SM-F731B,Snapdragon 8 Gen 2,8 GB,,256 GB,6.7 inshes,3175,0.59875,120 Hz,7
+Phone,Google Pixel 7 Pro,Google Tensor G2,12 GB,,128 GB,6.7 inshes,2146,0.3693,120 Hz,5
+Phone,Samsung Galaxy S21 5G SM-G991B,Exynos 2100,8 GB,,256 GB,6.2 inshes,1399,0.33745,120 Hz,12
+Phone,Apple iPhone 14,Apple A15 Bionic,6 GB,,512 GB,6.1 inshes,3199,0.54445,120 Hz,14
+Phone,Apple iPhone 11,Apple A13 Bionic,4 GB,,64 GB,6.1 inshes,1489,0.34645,120 Hz,11
+Phone,Samsung Galaxy S20 Plus 5G SM-G986B,Exynos 990,8 GB,,128 GB,6.7 inshes,1255,0.17025,120 Hz,9
+Phone,Apple iPhone 13 mini,Apple A15 Bionic,4 GB,,256 GB,5.4 inshes,2698,0.5194,120 Hz ,13
+Phone,OnePlus 10 Pro,Snapdragon 8 Gen 1,12 GB,,256 GB,6.7 inshes,2599,0.46195,120 Hz,6
+Phone,Galaxy A53 5G SM-A536E,Exynos 1200,8 GB,,128 GB,6.46 inshes,1115,0.27925,120 Hz,8
+Phone,Apple iPhone 14 Pro,Apple A16 Bionic,8 GB,,512 GB,6.1 inshes,3966,0.6583,120 Hz,10
+Phone,Google Pixel 7,Google Tensor G2,8 GB,,256 GB,6.3 inshes,1745,0.34925,90 Hz,7
+Phone,Samsung Galaxy A35 SM-A356E,Exynos 1380,6 GB,,128 GB,6.6 inshes,1147,0.22735,120 Hz,15
+Phone,Nokia 225,Unisoc UMS9117,64 MB,,128 MB,2.4 inshes,293,0.05915,None,11
+Phone,Samsung Galaxy A04E SM-A042F,None,3 GB,,32 GB,6.5 inshes,340,,None,14
+Phone,Apple iPhone 13 Pro Max,Apple A15 Bionic,6 GB,,128 GB,6.7 inshes,3723,0.57065,None,9
+Phone,Apple iPhone 12 mini,Apple A14,4 GB,,256 GB,5.4 inshes,1849,0.40845,None,12
+Phone,Samsung Galaxy Z Fold4 SM-F936B,Snapdragon 8+ Gen 1,12 GB,,256 GB,7.6 inshes,3720,0.543,120 Hz,5
+Phone,Samsung Galaxy A34 5G SM-A346E/DSN,Mediatek MT6877V Dimensity 1080,8 GB,,128 GB,6.6 inshes,908,0.1889,120 Hz,6
+Phone,Xiaomi Redmi A2 Plus,Mediatek Helio G36,3 GB,,64 GB,6.52 inshes,350,0.0635,None,10
+Phone,Apple iPhone 15 Pro Max,Apple A17 Pro,8 GB,,1 TB,6.7 inshes,7000,0.85,120 Hz,15
+Phone,Samsung Galaxy S23 Plus 5G SM-S916B/DS,Snapdragon 8 Gen 2,8 GB,,512 GB,6.6 inshes,3228,0.6014,120 Hz,6
+Phone,Xiaomi Redmi A3,Mediatek Helio G36,4 GB,,128 GB,6.71 inshes ,438,0.0679,90 Hz,5
+Phone,Google Pixel 6a,Google Tensor,6 GB,,128 GB,6.1 inshes,1168,0.3119,None,7
+Phone,Xiaomi Poco F5 Pro,Snapdragon 8+ Gen 1,12 GB,,512 GB,6.67 inshes,2000,0.457,120 Hz,9
+Phone,Samsung Galaxy S21 Ultra 5G SM-G998B/DS,Exynos 2100,None,,128 GB,6.8 inshes,1838,0.3594,120 Hz,13
+Phone,Xiaomi Redmi A3,Mediatek Helio G36,4 GB,,128 GB,6.71 inshes ,438,0.0679,90 Hz,14
+Phone,Samsung Galaxy Note 20 5G SM-N981B/DS,Exynos 990,8 GB,,256 GB,6.7 inshes,1795,0.25825,None,11
+Phone,Samsung Galaxy A73 5G SM-A736B/DS,Snapdragon 778G,8 GB,,128 GB,6.7 inshes,1750,0.269,120 Hz,8
+Phone,Apple iPhone 14 Pro Max,Apple A16 Bionic,6 GB,,128 GB,6.7 inshes,4700,0.695,120 Hz,10
+Phone,Xiaomi Redmi Note 13 Pro Plus,Mediatek Dimensity 7200 Ultra,8 GB,,256 GB,6.67 inshes,1440,0.251,120 Hz,9
+Phone,Samsung Galaxy A15 SM-A155F/DS,Mediatek Helio G99,8 GB,,256 GB,6.5 inshes,735,0.14275,90 Hz,15
+Phone,Apple iPhone 12 Pro,Apple A14 Bionic,6 GB,,128 GB,6.1 inshes,2653,0.44865,None,12
+Phone,Samsung Galaxy Note 10 SM-N970F,Exynos 9825,8 GB,,256 GB,6.3 inshes,1400,0.3315,None,6
+Phone,Nokia 2660 Flip,Unisoc T107,48 MB,,128 MB,2.8 inshes,319,0.06195,None,5
+Phone,Samsung Galaxy S20 Ultra SM-G988B/DS,Exynos 990,12 GB,,128 GB,6.9 inshes,1754,0.1952,120 Hz,13
+Phone,Apple iPhone 15 Pro,Apple A17 Pro,8 GB,,1 TB,6.1 inshes,6570,0.8285,120 Hz,10
+Phone,Samsung Galaxy S10 SM-G973F,Exynos 9820,8 GB,,128 GB,6.1 inshes,1040,0.256,None,9
+Phone,Xiaomi Redmi Note 12S,Mediatek Helio G96,8 GB,,256 GB,6.43 inshes,919,0.15045,90 Hz,8
+Phone,Samsung Galaxy Note 10 Plus SM-N975F,Exynos 9825,12 GB,,256 GB,6.8 inshes,1639,0.34345,None,15
+Phone,Nokia 110,None,128 MB,,48 MB,1.8 inshes,205,,None,12
+Phone,Google Pixel 7 Pro,Google Tensor G2,12 GB,,256 GB,6.7 inshes,2560,0.39,120 Hz,7
+Phone,Xiaomi Redmi Note 12,Snapdragon 4 Gen 1,8 GB,,128 GB,6.67 inshes,649,0.14895,120 Hz,14
+Phone,Samsung Galaxy A72 SM-A725F/DS,Snapdragon 720G,8 GB,,128 GB,6.7 inshes,1520,0.1855,90 Hz,11
+Phone,Samsung Galaxy S20 5G SM-G981B/DS,Exynos 990,8 GB,,128 GB,6.2 inshes,1250,0.17,120 Hz,10
+Phone,Apple iPhone 13 mini ,Apple A15 Bion,4 GB,,512 GB,5.4 inshes,3398,0.5544,120 Hz,6
+Phone,Apple iPhone SE ,Apple A15 Bionic,4 GB,,64GB,4.7 inshes,1495,0.45925,60 Hz,8
+Phone,Huawei P30 Pro ,Kirin 980,6GB,,128GB,6.47? inshes,1580,0.227,60 Hz,9
+Phone,Samsung Galaxy Note 9 SM-N960F,Exynos 9810,6GB,,128GB,6.4 inshes ,999,0.24095,60  Hz,12
+Phone,Samsung Galaxy S21 Ultra 5G SM-G998B/DS , Exynos 2100, 16GB,,512 GB,6.8 inshes ,2460,0.3905,120 Hz,7
+Phone,Samsung Galaxy S20 Ultra 5G SM-G988U , Exynos 990,12GB,, 128GB,6.9 inshes ,1690,0.192,120  Hz,14
+Phone,Samsung Galaxy A14 SM-A145F/DS,Mediatek MT676,6GB,,128GB ,6.6 inshes ,604,0.0922,None,15
+Phone,Samsung Galaxy Note 20 SM-N980F/DS,Exynos 990,8GB,,256 GB,6.7 inshes,2299,0.22245,60 Hz,13
+Phone,Samsung Galaxy S9 SM-G960F,Exynos 9810,4 GB,,64 GB,5.8 inshes,924,0.2372,None,11
+Phone,Apple iPhone 12 Pro ,Apple A14 Bion,6 GB,,256 GB,6.1 inshes,3170,0.4745,120 Hz,10
+Phone,Samsung Galaxy A52 SM-A525F/DS ,Snapdragon 720G,6 GB,,128GB ,6.5 inshes,1364,0.1777,90 Hz,6
+Phone,Samsung Galaxy F54 SM-E546B/DS,Exynos 1380,8 GB,,256GB,6.7 inshes,1375,0.23875,120  Hz,7
+Phone,iPhone X, Apple A11 Bion.,3 GB ,,64GB,5.8  inshes,1298,0.1414,60 Hz,12
+Phone,Samsung Galaxy A71 SM-A715F , Snapdragon 730,8 GB,,128GB,6.7  inshes,1399,0.18645,60 Hz,8
+Phone,Blackview A95 128GB ,Mediatek MT677,8 GB,,128GB,6.53 nshes,592,0.1111,None,9
+Phone,Apple iPhone 11,Apple A13,4 GB,, 256GB,6.1  inshes,2159,0.36945,60 Hz,14
+Phone,Apple iPhone 14 Pro Max,Apple A16 Bion,6  GB,,1 TB,6.7  inshes,5285,0.72425,120  Hz,5
+Phone,Samsung Galaxy A14 SM-A145F/DS, Mediatek MT676,4GB,,128GB,6.6 inshes ,598,0.0919,None,15
+Phone,Samsung Galaxy A51 SM-A515F,Exynos 9611,6GB,,128GB,6.5 inshes ,894,0.1657,None,11
+Phone,Samsung Galaxy A35 SM-A356E/DS ,Exynos 1380,8GB,,256 GB,6.6 inshes ,1340,0.237,120 Hz,10
+Phone,Xiaomi Redmi Note 12 Pro 5G, Mediatek MT6877V,8GB,,256 GB,6.67?  inshes ,1375,0.21225,120  Hz,7
+Phone,Apple iPhone 13 Pro Max,Apple A15 Bion,6 GB,,512GB,6.7  inshes ,4460,0.6075,120 Hz,8
+Phone,Samsung Galaxy S23 SM-S9110,Snapdragon 8 G,8 GB,,256GB,6.6 inshes ,2790,0.5795,120 Hz,12
+Phone,Apple iPhone XR,Apple A12 Bion,3 GB,,64 GB,6.1 inshes ,1419,0.21495,60 Hz,9
+Phone,Blackview A100,MediaTek Heilo,6GB,,128 GB,6.67 inshes ,550,0.0895,None,6
+Phone,Blackview BV9200,MediaTek Heilo,8 GB,,256 GB,6.6 inshes ,1389,0.13145,120 Hz,13
+Phone,Apple iPhone SE,Apple A13 Bion,3 GB,, 64GB,4.7 inshes ,1045,0.31375,60 Hz,15
+Phone,Samsung Galaxy Z Flip3 SM-F711B , Snapdragon 888,8 GB,,256 GB,6.7 inshes ,2158,0.3829,120 HZ,7
+Phone,Blackview BV4900 Pro, MediaTek Helio, 4 GB,,64GB,5.7 inshes ,589,0.09145,None,14
+Phone,Apple iPhone 11 Pro,Apple A13,4GB,,256 GB ,5.8 inshes ,2587,0.39085,60 Hz,11
+Phone,iPhone 8 Plus,Apple A11 Bion,3 GB,,64GB,5.5 inshes ,1229,0.13795,60 Hz,10
+Phone,Apple iPhone SE, Apple A15 Bion,4GB,,256 GB,4.7 nshes ,1990,0.484,60 Hz,6
+Phone,Samsung Galaxy S10 5G SM-G977B , Exynos 9820,8GB,,256 GB,6.7 inshes ,1398,0.2739,60 Hz,12
+Phone,Xiaomi Redmi Note 12 Pro,Snapdragon 732G,8GB,,256 GB,6.67 inshes ,1219,0.17745,120 Hz,9
+Phone,Samsung Galaxy Note 8 SM-N950F,Exynos 8895,6 GB,,64GB,6.3 inshes ,970,0.171,None,13
+Phone,Blackview BV6300 PRO,Mediatek MT677,6 GB,,128 GB,5.7 inshes ,792,0.1211,None,5
+Phone,Samsung Galaxy Z Flip3 SM-F711B,Snapdragon 888,8 GB,,128 GB,6.7 inshes ,1900,0.37,120 Hz,8
+Phone,Xiaomi Redmi Note 12 Pro Plus,Mediatek MT687,8 GB,,256 GB,6.67 inshes ,1699,0.22845,120 Hz,7
+Phone,OnePlus Nord 2T,MediaTek Dime,12 GB,,256 GB,6.43 inshes ,1499,0.13695,90 Hz,11
+Phone,Samsung Galaxy A32 SM-A325F/DS ,Helio G80,4 GB,, 128 GB,6.4 inshes ,1124,0.1282,90 Hz,15
+Phone,Vivo Y33s,Mediatek Helio,8 GB,, 128 GB,6.58  inshes ,835,0.10375,None,10
+Phone,Apple iPhone 14 Pro, Apple A16 Bion,6GB,,1 TB,6.1 inshes ,5048,0.7124,120 Hz,14
+Phone,iPhone 15 Pro Max ,Snapdragon 7 Gen 1,8 GB,,256 GB,6.7 inshes,4981,0.44255,120 Hz,6
+Phone,Samsung Galaxy S24 Ultra SM-S928B,Qualcomm SM865,12 GB,,257 GB,6.8 inshes,5049,0.53995,120 Hz,9
+Phone,iPhone 15 Pro,Everest + Sawtooth,6 GB,,128 GB,6.1 inshes,4300,0.336,120 Hz,12
+Phone,Apple iPhone 14 Pro,Apple A16 Bionic,6 GB,,256 GB,6.1 inshes,3800,0.65,120 Hz,8
+Phone,Samsung Galaxy S24 Plus SM-S926B, Exynos 2400,12 GB,,256 GB,6.7 inshes,3800,0.5865,120 Hz,7
+Phone,Apple iPhone 13,Apple A15 Bion,4 GB,,128 GB,6.1 inshes,3200,0.5445,120 Hz,15
+Phone,Samsung Galaxy S24 SM-S921B,Exynos 2400,8 GB,,256 GB,6.2 inshes,2900,0.5415,120 Hz,5
+Phone,Apple iPhone 15 Pro,Apple A17 Pro,8 GB,,256 GB,6.1 inshes,5600,0.78,120 Hz,14
+Phone,Xiaomi Redmi Note 13 Pro 5G,Snapdragon 7s,12 GB,,512 GB,6.67 inshes,1850,0.2605,120 Hz,13
+Phone,Samsung Galaxy A55 SM-A556E,Exynos 1480,8 GB,,256 GB,6.6 inshes,1919,0.21995,120 Hz,10
+Phone,Galaxy A54 SM-A546E, Exynos 1380,8 GB,,257 GB,6.4 inshes,1609,0.25045,120 Hz,6
+Phone,Samsung Galaxy S24 Ultra SM-S928B,Qualcomm SM865,12 GB,,512 GB,6.8 inshes,5625,0.56875,120 Hz,12
+Phone,Samsung Galaxy S23 Plus 5G SM-S916B, Snapdragon 8 G,12 GB,,256 GB,6.67 inshes,2793,0.57965,120 Hz,9
+Phone,Xiaomi Poco X6 Pro 5G,Mediatek Dimen,12 GB,,512 GB,6.67 inshes,1900,0.157,120 Hz,8
+Phone,Samsung Galaxy S22 SM-S901E/DS, Snapdragon 8 G,8 GB,,128 GB,6.1 inshes,3000,0.59,120 Hz,11
+Phone,Samsung Galaxy A15 SM-A155F/DS,Mediatek Helio,4 GB,,128 GB,6.5 inshes,880,0.106,90 hz,7
+Phone,Samsung Galaxy S23 SM-S911B/DS,Snapdragon 8 G,8 GB,,128 GB,6.1 inshes,3199,0.59995,120 Hz,5
+Phone,Apple iPhone 15,Apple A16 Bion,6 GB,,256 GB,6.1 inshes,4460,0.683,120 Hz,14
+Phone,Apple iPhone 14,Apple A15 Bion.,6 GB,,128 GB,6.1 inshes,3799,0.57445,120 Hz,10
+Phone,Samsung Galaxy S23 FE SM-S711B/DS,Exynos 2200,8 GB,,256 GB,6.6 inshes,2799,0.43645,120 Hz,13
+Phone,Samsung Galaxy S22 Ultra SM-S908E/DS 256GB,Snapdragon 8 G,12 GB,,256 GB,6.8 inshes,2620,0.571,120 Hz,12
+Phone,Apple iPhone 15 Pro ,Apple A17 Pro,8 GB,,128 GB,6.6 inshes,4890,0.7445,120 Hz,6
+Phone,Apple iPhone 15 Pro max ,Apple A17 Pro,8 GB,,512 GB,6.7 inshes,7000,0.85,120 Hz,8
+Phone,Xiaomi Redmi Note 13 4G,Snapdragon 685,8 GB,,256 GB,6.6 inshes,1049,0.17395,120 Hz,9
+Phone,Xiaomi Poco M6 Pro,Mediatek Helio,12 GB,,512 GB,6.67 inshes,1300,0.127,120 Hz,15
+Phone,Samsung Galaxy A55 SM-A556E/DS,Exynos 1480,8 GB,,128 GB,6.6 inshes,1819,0.21495,120 Hz,11
+Phone,Google Pixel 8,Google Tensor,8 GB,,256 GB,6.2 inshes,2890,0.398,120 Hz,14
+Phone,Xiaomi Redmi 13C,MediaTek MT676,8 GB,,256 GB,6.74 inshes,890,0.1065,90 hz,7
+Phone,Apple iPhone 14 Pro Max,Apple A16 Bion,6 GB,,256 GB,6.7 inshes,5400,0.73,120 Hz,10
+Phone,Samsung Galaxy S23 SM-S911B/DS,Snapdragon 8 G,8 GB,,256 GB,6.1 inshes,3260,0.603,120 Hz,8
+Phone,Samsung Galaxy S24 SM-S921B/DS,Exynos 2400,8 GB,,128 GB,6.1 inshes,3100,0.5515,120 Hz,6
+Phone,Apple iPhone 12,Apple A14 Bion,4 GB,,128 GB,6.1 inshes,2690,0.4505,120 Hz,13
+Phone,Xiaomi Redmi Note 13 Pro Plus,Mediatek Dimen,12 GB,,512 GB,6.67 inshes,2000,0.162,120 Hz,12
+Phone,OnePlus 12,Qualcomm SM865,16 GB,,512 GB,6.82 inshes,3900,0.4825,120 Hz,5
+Phone,Samsung Galaxy A34 5G SM-A346E/DSN,Mediatek MT687,6 GB,,128 GB,6.6 inshes,1319,0.20945,120 Hz,11
+Phone,Apple iPhone 14,Apple A15 Bion,6 GB,,256 GB,6.1 inshes,3800,0.5745,120 Hz,9
+Phone,Samsung Galaxy S21 FE 5G SM-G990E/DS,Exynos 2100,8 GB,,128 GB,6.4 inshes,1915,0.36325,120 Hz,7
+Phone,Samsung Galaxy S21 5G SM-G991B/DS ,Exynos 2100,8 GB,,128 GB,6.2 inshes,2649,0.39995,120 Hz,10
+Phone,Samsung Galaxy S23 Ultra 5G SM-S918B/DS,Snapdragon 8 G,16 GB,,512 GB,6.8 inshes,5200,0.7,120 Hz,15
+Phone,Samsung Galaxy S20 FE 5G SM-G781B/DS,Snapdragon 865,8 GB,,128 GB,6.5 inshes,1550,0.3275,120 Hz,14
+Phone,Samsung Galaxy S22 Plus SM-S906E/DS,Snapdragon 8 G,8 GB,,256 GB,6.6 inshes,3700,0.625,120 Hz,6
+Phone,Samsung Galaxy A25 SM-A256E/DSN,Exynos 1280,6 GB,,128 GB,6.5 inshes,1150,0.281,120 Hz,12
+Phone,Apple iPhone 13 Pro Ma,Apple A15 Bion,6 GB,,256 GB,6.7 inshes,4200,0.5945,120 Hz,8
+Phone,Apple iPhone 13 mini,Apple A15 Bion,4 GB,,128 GB,5.4 inshes,2700,0.5195,120 Hz,13
+Phone,Google Pixel 7A,Google Tensor,8 GB,,128 GB,6.1 inshes,1449,0.32595,120 Hz,11
+Phone,Xiaomi Redmi Note 13 Pro 4G ,Mediatek Helio,8 GB,,256 GB,6.67 inshes,1300,0.127,120 Hz,7
+Phone,Samsung Galaxy A05 SM-A055F/DS,Mediatek MT676,4 GB,,128 GB,6.7 inshes,649,0.09445,80 Hz,9
+Phone,Samsung Galaxy S21 Ultra 5G SM-G998B/DS,Exynos 2100,12 GB,,256 GB,6.8 inshes,2300,0.3825,120 Hz,14
+Phone,Apple iPhone 11,Apple A13 Bion,4 GB,,128 GB,6.1 inshes,1700,0.3465,120 Hz,10
